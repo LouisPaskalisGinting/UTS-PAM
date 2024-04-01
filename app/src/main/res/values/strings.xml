@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UTS-PAM</string>
+    <string name="image_desc">SplashScreenLogo</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="pw">Password</string>
+    <string name="fp">Forgot Password?</string>
+    <string name="newuser">New User?</string>
+    <string name="regist">Register</string>
+    <string name="sign_in">Already have an account?</string>
+    <string name="user">Username</string>
+    <string name="github">Github username</string>
+    <string name="NIM">NIM</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
